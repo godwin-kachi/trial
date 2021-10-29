@@ -9,3 +9,4 @@ This file will keep track of our daily progress for all student commits.
 *Review of git process
 *How to troubleshoot
 *How to track chnages
+k
