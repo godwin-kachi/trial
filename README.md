@@ -8,4 +8,4 @@ This file will keep track of our daily progress for all student commits.
 *How to git clone,commit and push 
 *Review of git process
 *How to troubleshoot
-*Hter
+*How to track chnages
